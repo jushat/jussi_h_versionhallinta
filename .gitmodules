@@ -1,0 +1,3 @@
+[submodule "nimet/nimet/nimi"]
+	path = nimet/nimet/nimi
+	url = https://github.com/jushat/jussi_h_versionhallinta.git
